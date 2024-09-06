@@ -1,0 +1,2 @@
+Path: S -> C -> D -> A -> B -> G
+Cost: 9
