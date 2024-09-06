@@ -1,0 +1,5 @@
+Time Complexity:
+In worst case scenario, greedy BFS will explore all edges. So Time Complexity will be O(E log V).
+
+Space Complexity:
+Space complexity will be O(V), where V is the number of vertices. This is because in the worst case, all nodes might be stored in the priority queue and the visited set.
